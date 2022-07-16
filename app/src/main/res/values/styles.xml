@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MyCustomTabLayout" parent="Widget.Design.TabLayout">
+        <item name="tabIndicatorColor">#58DE1A</item>
+        <item name = "tabSelectedTextColor"> #58DE1A</item>
+    </style>
+</resources>

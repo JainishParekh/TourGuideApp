@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="image_width">128dp</dimen>
+    <dimen name="item_height">80dp</dimen>
+    <dimen name="address_size">12sp</dimen>
+    <dimen name="name_size">16sp</dimen>
+</resources>
